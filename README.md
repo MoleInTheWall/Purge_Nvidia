@@ -1,8 +1,11 @@
 This is a repo for fully clearing NVIDIA drivers from a system as well as fixing some common issues encountered with NVIDIA drivers. Possible Windows And OSX support in the future.
 
 -No AI Code!
+
 -Xorg Fixs
+
 -Wayland Fixs
+
 -10 Bit Color Support
 
 Important Notes For Use:
