@@ -1,3 +1,4 @@
+#sudo purge nvidia test before uncommenting
 dpkg -l | grep -i nvidia
 sudo apt-get remove --purge '^nvidia-.*'
 sudo rm /etc/X11/xorg.conf
